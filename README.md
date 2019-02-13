@@ -12,3 +12,9 @@ Jag vill göra fiskandet lite roligare för mig och mina vänner. Jag siktar på
  * Ramverk: React-Native
  
  För att få ett bra stöd i form av componenter, containers och styles så använder jag Ignite. Ignite fungerar som ett starter kit för din apputveckling. Läs mer om Ignite och deras arbete, https://infinite.red/ignite
+
+# Utvecklingsplatform
+Jag utvecklar appen i Windows 10 + Visual Studio Code. Appen har bara blivit testad i Android 7.0.
+
+# Problem
+Problem som uppstått är att Ignite verkar ha problem med npm. När "npm i" körs så tas yarn bort och applikationen kraschar.
