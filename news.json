@@ -12,9 +12,15 @@
         },
         {
             "id": "2",
-            "title": "GreatWater v0.1",
+            "title": "GreatWater v0.2",
             "published": "2019.01.30",
             "message": "Jag har implementerat Ignite och fått upp ett skal för appen. Mer och mer kommer att lägga till och en mycket snabbare fart än innan, och jag hoppas på att vi snart kan gå från Alpha till Beta-stadiet snarast."
+        },
+        {
+            "id": "2",
+            "title": "Dålig design v0.1",
+            "published": "2019.01.30",
+            "message": "Jag har bestämt mig för att prioritera funktionalitet över snygg design. Tills att jag dömmer att appen uppfyller de grundläggande funktionalitetskraven, det vill säga fungerande profilsida, ladda upp bilder och koordinater, kommer jag allså inte bry mig om att göra appen snygg. Jag kommer att lägga upp en nyhet om detta förändras."
         }
     ]
 
