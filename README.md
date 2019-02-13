@@ -1,8 +1,8 @@
 # GreatWater
 För dig som vill dela med sig av sina fångster.
 
-Simon Dahlström
-simon.dahlstrom@hotmail.com
+Simon Dahlström  
+simon.dahlstrom@hotmail.com  
 073 - 641 06 91
 
 # Sammanfattning
