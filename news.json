@@ -7,11 +7,13 @@
         {
             "id": "1",
             "title": "GreatWater's källkod på Github",
+            "published": "2019.02.12",
             "message": "Eftersom appen byggs i syfte med att ligga i min portfolio så har jag besämt att lägga upp all kod på Github under användarnamnet 'Golden Koi Studio'. Det är frittfram att kopiera appen under MIT-license"
         },
         {
             "id": "2",
             "title": "GreatWater v0.1",
+            "published": "2019.01.30",
             "message": "Jag har implementerat Ignite och fått upp ett skal för appen. Mer och mer kommer att lägga till och en mycket snabbare fart än innan, och jag hoppas på att vi snart kan gå från Alpha till Beta-stadiet snarast."
         }
     ]
