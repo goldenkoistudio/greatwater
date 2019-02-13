@@ -1,0 +1,19 @@
+
+{
+
+    "title": "The Basics - Networking",
+    "description": "Your app fetched this from a remote endpoint!",
+    "news": [
+        {
+            "id": "1",
+            "title": "Star Wars",
+            "message": "1977"
+        },
+        {
+            "id": "2",
+            "title": "Back to the Future",
+            "message": "1985"
+        },
+    ]
+
+}
