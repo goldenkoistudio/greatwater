@@ -11,5 +11,4 @@ Jag vill göra fiskandet lite roligare för mig och mina vänner. Jag siktar på
 # Tekniskt
  * Ramverk: React-Native
  
- Jag använder Ignite som stöd för GreatWater. Ignite tillhandahåller componenter, containers, styles, ect.
- Läs mer om Ignite och deras arbete, https://infinite.red/ignite
+ För att få ett bra stöd i form av componenter, containers och styles så använder jag Ignite. Ignite fungerar som ett starter kit för din apputveckling. Läs mer om Ignite och deras arbete, https://infinite.red/ignite
