@@ -6,13 +6,13 @@
     "news": [
         {
             "id": "1",
-            "title": "Star Wars",
-            "message": "1977"
+            "title": "GreatWater's källkod på Github",
+            "message": "Eftersom appen byggs i syfte med att ligga i min portfolio så har jag besämt att lägga upp all kod på Github under användarnamnet 'Golden Koi Studio'. Det är frittfram att kopiera appen under MIT-license"
         },
         {
             "id": "2",
-            "title": "Back to the Future",
-            "message": "1985"
+            "title": "GreatWater v0.1",
+            "message": "Jag har implementerat Ignite och fått upp ett skal för appen. Mer och mer kommer att lägga till och en mycket snabbare fart än innan, och jag hoppas på att vi snart kan gå från Alpha till Beta-stadiet snarast."
         }
     ]
 
